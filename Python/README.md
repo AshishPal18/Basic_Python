@@ -1,2 +1,1 @@
 ﻿# Basic_Python
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fraspberry-valley.azurewebsites.net%2FPython-Development-Environment%2F&psig=AOvVaw0-byIfAns7K8HlTzOXv0fV&ust=1731156184101000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDDqOnhzIkDFQAAAAAdAAAAABAE
